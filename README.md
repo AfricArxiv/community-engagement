@@ -1,3 +1,10 @@
+# Objectives
+- Make African research more visible
+- Disseminate African knowledge
+- Enable research exchange inside the continent
+- Foster cross-continental collaboration
+
+
 # outreach
 PR and outreach activities for AfricArxiv
 
