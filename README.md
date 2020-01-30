@@ -7,29 +7,17 @@
 
 # Communicate
 
-Twitter: https://twitter.com/AfricArxiv 
+Engage | Discuss
+--- | ---
+Github: [/AfricArxiv](/https://github.com/AfricArxiv) | Gitter: https://gitter.im/africarxiv-com/Lobby
+--- | Slack: https://africarxiv.slack.com
+--- | Twitter: [@AfricArxiv](https://twitter.com/AfricArxiv)
+Facebook page: [/AfricArxiv](https://www.facebook.com/AfricArxiv) | Facebook group: [/groups/africarxiv/](https://www.facebook.com/groups/africarxiv/)
+Linkedin: (https://www.linkedin.com/company/africarxiv/) | ---
+--- | Whatsapp community: [invite link](https://chat.whatsapp.com/I2KGaZiddV0IlS1kKf7uwn)
+--- | Telegram community: [invite link](https://t.me/joinchat/IlG2ThArvXO1j-LvmHcz8g)
+Medium.com (medium.com/@africarxiv) | ---
 
-Facebook page: https://twitter.com/AfricArxiv
-
-Facebook group: https://www.facebook.com/groups/africarxiv/
-
-Linkedin: https://www.linkedin.com/company/africarxiv/ 
-
-Github: https://github.com/AfricArxiv 
-
-Email: info@africarxiv.org | africarxivpreprints@gmail.com | {name}@africarxiv.org 
-
-Whatsapp community group : https://chat.whatsapp.com/I2KGaZiddV0IlS1kKf7uwn 
-
-Whatsapp team group: https://chat.whatsapp.com/HhGOUYfO5AB1Xe8MCN1BQn 
-
-Telegram: https://t.me/joinchat/IlG2ThArvXO1j-LvmHcz8g  
-
-Medium.com (medium.com/@africarxiv) 
-
-Slack: https://africarxiv.slack.com
-
-Gitter: https://gitter.im/africarxiv-com/Lobby
 
 
 # Collaborate
