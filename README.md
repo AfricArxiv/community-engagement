@@ -13,7 +13,7 @@ Github: [/AfricArxiv](/https://github.com/AfricArxiv) | Gitter: https://gitter.i
 --- | Slack: https://africarxiv.slack.com
 --- | Twitter: [@AfricArxiv](https://twitter.com/AfricArxiv)
 Facebook page: [/AfricArxiv](https://www.facebook.com/AfricArxiv) | Facebook group: [/groups/africarxiv/](https://www.facebook.com/groups/africarxiv/)
-Linkedin: (https://www.linkedin.com/company/africarxiv/) | ---
+Linkedin: [/africarxiv](https://www.linkedin.com/company/africarxiv/) | ---
 --- | Whatsapp community: [invite link](https://chat.whatsapp.com/I2KGaZiddV0IlS1kKf7uwn)
 --- | Telegram community: [invite link](https://t.me/joinchat/IlG2ThArvXO1j-LvmHcz8g)
 Medium.com (medium.com/@africarxiv) | ---
