@@ -12,7 +12,7 @@ How did you learn about AfricArXiv?
 
 What has changed since you uploaded your results to AfricArXiv?
 
-What outcomes would you like to see for your work/yourself by using the AfricArXiv platform? 
+What outcomes would you like to see in future for your work/yourself by using the AfricArXiv platform? 
 
 Link/s to your accepted uploads and published work: 
 - …
