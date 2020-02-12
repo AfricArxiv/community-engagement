@@ -10,9 +10,21 @@ Have you previously shared results on other preprint or institutional repositori
 
 How did you learn about AfricArXiv?
 
+What are the discoveries that have lead up to your current work? 
+
+Why is your research important? What are the possible real world applications?
+
+What question or challenge were you setting out to address when you started this work?
+
+Why is your area of scientific discovery important (or relevant) for the ordinary citizen of the country where your research is based?
+
+What happens next in the process of discovery? 
+
 What has changed since you uploaded your results to AfricArXiv?
 
 What outcomes would you like to see in future for your work/yourself by using the AfricArXiv platform? 
+
+What kind of response have you gotten to your research / findings? 
 
 Link/s to your accepted uploads and published work: 
 - …
