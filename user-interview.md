@@ -4,6 +4,8 @@
 
 Short bio/intro
 
+Which country do you come from?
+
 Have you previously shared results on other preprint or institutional repositories?
 
 How did you learn about AfricArXiv?
