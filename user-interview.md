@@ -2,6 +2,8 @@
 
 ### 'Open' questions (to be published as a blog post)
 
+image upload (profile picture of the author)
+
 Short bio/intro
 
 Which country do you come from?
@@ -44,8 +46,10 @@ Which of the following services did you choose and why?
 
 Did you experience any difficulties during the upload process?
 
-Please provide links to your public profiles
+Please provide links to your public profiles 
 - Twitter
 - ORCID
 - Linkedin
-- …
+- ResearchGate
+- Google Scholar, 
+- Github
