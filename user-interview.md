@@ -4,8 +4,6 @@
 
 image upload (profile picture of the author)
 
-image upload (of work submitted)
-
 Short bio/intro
 
 Which country do you come from?
