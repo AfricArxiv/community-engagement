@@ -1,5 +1,7 @@
 # Interview questions for user feedback
 
+Alsoo available as Google Doc: [Author interviews – template](https://docs.google.com/document/d/1jlAIGiYisItxgEd3ZiO8V3IdUyndzfT3EhZgjUecTEg/edit#)
+
 ### 'Open' questions (to be published as a blog post)
 
 Your name
