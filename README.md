@@ -21,15 +21,17 @@ Medium.com (medium.com/@africarxiv) | ---
 
 
 # Collaborate
+Read and add to our [Community Engagement Wiki](https://github.com/AfricArxiv/community-engagement/wiki) here on GitHub.
+
 Join us in spreading the word about scholarly communication in and about Africa with us. Here is what you can do:
-- Submit your research output to the AfricArXiv repository: how-to-share-a-preprint-on-africarxiv
-- Join any of our communication channels: contact
+- Submit your research output to the AfricArXiv repository: https://info.africarxiv.org/submit/
+- Join any of our communication channels: https://info.africarxiv.org/contact/
 - Reach out to your academic network and tell them about AfricArXiv
-- Let us know if you would like to join our team: contact
-- Translate with us abstracts and summaries into African languages
+- Let us know if you would like to join our team
+- Translate with us abstracts and summaries into traditional African languages
 - Make suggestions on how else to spread the word about Research in Africa
 
-Contact us at collaborate@africarxiv.org
+Contact us at contribute@africarxiv.org
 
 
 # Activities (planned)
