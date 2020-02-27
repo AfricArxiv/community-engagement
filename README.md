@@ -4,6 +4,8 @@
 - Enable research exchange inside the continent
 - Foster cross-continental collaboration
 
+## Read and add to our [Community Engagement Wiki](https://github.com/AfricArxiv/community-engagement/wiki).
+
 
 # Communicate
 
@@ -21,8 +23,6 @@ Medium.com (medium.com/@africarxiv) | ---
 
 
 # Collaborate
-Read and add to our [Community Engagement Wiki](https://github.com/AfricArxiv/community-engagement/wiki) here on GitHub.
-
 Join us in spreading the word about scholarly communication in and about Africa with us. Here is what you can do:
 - Submit your research output to the AfricArXiv repository: https://info.africarxiv.org/submit/
 - Join any of our communication channels: https://info.africarxiv.org/contact/
