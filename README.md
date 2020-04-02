@@ -36,20 +36,6 @@ Medium.com (medium.com/@africarxiv) | ---
 Members can ask questions and get quick answers from the team or other members
 Members can exchange information about open science, Open Access and preprints
 
-# Preprints 
-## Posting Preprints
-- Choose from https://osf.io/preprints/africarxiv/discover and make sure to track the already posted preprints at (https://docs.google.com/spreadsheets/d/1d99iVq_BIhmb7VqV27jDS7L8CHSRhIyNsrmdTi0P-3U/edit#gid=0)
-- Highlight the country, where it’s coming from / where the study is located
-- c&p APA citation style from preprint entry 
-- Add flag emoticon if feasible
-- Add hashtags (keywords from manuscript)
-- add #ResearchinAfrica #OpenAccess #preprint (if space allows)
-- Add a screenshot from the manuscript (title page, figures, tables)
-
-## Suggested edits on submission form for preprints:
-- Country/origin/country of origin/ Nationality be added
-- Twitter handle of submitting author be added
-
 
 # Collaborate
 Join us in spreading the word about scholarly communication in and about Africa with us. Here is what you can do:
@@ -120,7 +106,7 @@ Add the mertrics collected into this spreadsheet: https://docs.google.com/spread
 - Use English for the most part - intersecting with French 
 - African Languages esp. for region specific content but also randomly
 
-## Scheduling Posts
+# Scheduling Posts
 Apart from posting manually in individual social platforms, you can also consider using the following mobile and web-based applications to schedule your posts:
 - Hootsuite
 - Buffer
@@ -138,6 +124,34 @@ Apart from posting manually in individual social platforms, you can also conside
 - Twitter: 3-5 per day; Focus on quantity -one post per hour is optimal (retweets inculded)
 - Facebook: 5-10 per week; Focus on quality - aim for 2 posts per day to keep the audience interested
 - Linkedin: 2-5 per week; Focus on formal, technical content - posts get more traction during the work week
+
+# Preprints 
+## Posting Preprints
+- Choose from https://osf.io/preprints/africarxiv/discover and make sure to track the already posted preprints at (https://docs.google.com/spreadsheets/d/1d99iVq_BIhmb7VqV27jDS7L8CHSRhIyNsrmdTi0P-3U/edit#gid=0)
+- Highlight the country, where it’s coming from / where the study is located
+- c&p APA citation style from preprint entry 
+- Add flag emoticon if feasible
+- Add hashtags (keywords from manuscript)
+- add #ResearchinAfrica #OpenAccess #preprint (if space allows)
+- Add a screenshot from the manuscript (title page, figures, tables)
+- If possible, tag at least one author on Twitter for the correspinding post 
+- Example of a preprint post: 
+> A #preprint from South Africa and the USA:
+> Berger, L. R., & Hawks, J. (2020, January 30). Revisiting the age of the Florisbad hominin materia https://doi.org/10.31730/osf.io/eqs7d
+> #Pleistocene #anatomy #homosapiens
+
+### Hashtags
+- 3-5 study specific hashtags that already exist on twitter 
+- Not too research-specific but specific to the topic of study
+
+### Images
+- Screenshots from the accepted submission
+- 1 overview image and 1 or 2 selected figures & tables
+- Include the AfricArXiv logo on top of each screenshot
+- Ensure that table or image description is also in the screenshot
+- You can achieve this by adjusting the size of the browser window (zoom screen size from 100% to about 125% or 150%)
+
+
 
 # Activities (planned)
 ## Monthly community calls / webinars
