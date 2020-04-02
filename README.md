@@ -156,6 +156,10 @@ Apart from posting manually in individual social platforms, you can also conside
 - Ensure that table or image description is also in the screenshot
 - You can achieve this by adjusting the size of the browser window (zoom screen size from 100% to about 125% or 150%)
 
+![alt text](https://github.com/AfricArxiv/community-engagement/blob/master/1b.PNG "Screenshot example 1")
+![alt text](https://github.com/AfricArxiv/community-engagement/blob/master/2b.PNG "Screenshot example 1")
+![alt text](https://github.com/AfricArxiv/community-engagement/blob/master/3b.PNG "Screenshot example 1")
+
 # Interviews
 Interview is an important social listening tool that helps you to know the sentiments of the users from their previous experience with the repository.
 ### Administering an Interview 
