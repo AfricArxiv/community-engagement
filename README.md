@@ -88,21 +88,21 @@ Add the mertrics collected into this spreadsheet: https://docs.google.com/spread
 - Feature authors
 - Feature topics
 - Reply to posts and conversations affecting AfricArXiv
-- Tips for a great Tweet: 
-Keep Tweets between 100 and 120 characters so others can modify or add short notes before retweeting.
-Take the time to write a proper sentence (including grammar and punctuation) that fits within the character limit.
-Encourage conversation and build your audience by posing questions to elicit curiosity, quoting others (with proper citation), and thanking those who mention you or pass your message along.
-Shorten links
-Accompany your Tweet with a strong and bright image
-Maintain your own personality.(you're not a robot)
+### Tips for a great Tweet: 
+- Keep Tweets between 100 and 120 characters so others can modify or add short notes before retweeting.
+- Take the time to write a proper sentence (including grammar and punctuation) that fits within the character limit.
+- Encourage conversation and build your audience by posing questions to elicit curiosity, quoting others (with proper citation), and thanking those who mention you or pass your message along.
+- Shorten links
+- Accompany your Tweet with a strong and bright image
+- Maintain your own personality.(you're not a robot)
 
 
 ## Facebook: same as Twitter
-- Tips for a great Facebooks post:
-Stay positive.Use inspiring, funny and re-affirming words.
-Pose questions, tell stories, and use language that encourages commenting and interaction with your page.
-Interact with your followers and fans, as well as other people who comment on posts in your feed.
-Add comments to your older posts to bring it up in the newsfeed again.
+### Tips for a great Facebooks post:
+- Stay positive.Use inspiring, funny and re-affirming words.
+- Pose questions, tell stories, and use language that encourages commenting and interaction with your page.
+- Interact with your followers and fans, as well as other people who comment on posts in your feed.
+- Add comments to your older posts to bring it up in the newsfeed again.
 
 
 ## Linkedin
@@ -110,11 +110,11 @@ Add comments to your older posts to bring it up in the newsfeed again.
 - Post links to blog posts
 - feature authors
 - feature topics
-- Tips for a great LinkedIn post:
-Keep it short. Give your audience just enough to know why you shared it and what it means to them.
-Stay interested to be more interesting. Reply to those who comment on your posts and like any of their content that has value for you. Commenting on your own post can open up conversation as well, which leads to more engagement and increased visibility.
-Tag people or companies that you are connected to, it gives your post more authority. Make sure the posts are related and will be welcomed by those you are tagging.
-Don’t forget the power of images. Add a vibrant image or have the link shared contain a vibrant image.
+### Tips for a great LinkedIn post:
+- Keep it short. Give your audience just enough to know why you shared it and what it means to them.
+- Stay interested to be more interesting. Reply to those who comment on your posts and like any of their content that has value for you. Commenting on your own post can open up conversation as well, which leads to more engagement and increased visibility.
+- Tag people or companies that you are connected to, it gives your post more authority. Make sure the posts are related and will be welcomed by those you are tagging.
+- Don’t forget the power of images. Add a vibrant image or have the link shared contain a vibrant image.
 
 # Language
 - Use English for the most part - intersecting with French 
