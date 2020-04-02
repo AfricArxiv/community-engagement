@@ -158,23 +158,24 @@ Apart from posting manually in individual social platforms, you can also conside
 
 # Interviews
 Interview is an important social listening tool that helps you to know the sentiments of the users from their previous experience with the repository.
+### Administering an Interview 
 The interview qestions are available in this directory:user-interview.md
 To administer an interview, select one email at a time from the authors database (https://docs.google.com/spreadsheets/d/1aGfIBzEGvu4PwcBMv-c2IrU6r3i_MpBscu0SMj3OCNI/edit?usp=sharing)
 - copy paste the questions into the email body and send
 - you can use the following email format (feel free to be creative)
 > Dear (First Name),
 
-> Thank you for using AfricArXiv for the dissemination of your research results. Your manuscript entitled:(link to ), was downloaded 88 times until today. We would like to take this opportunity to ask a few questions about your experience in using AfricArXiv/OSF and also to feature your work in a blog post on our website: https://info.africarxiv.org/news/
+> Thank you for using AfricArXiv for the dissemination of your research results. Your manuscript entitled: (Title and link to the article), was downloaded (no of downloads) times until today. We would like to take this opportunity to ask a few questions about your experience in using AfricArXiv/OSF and also to feature your work in a blog post on our website: https://info.africarxiv.org/news/
 
+> Would you be interested to participate? Please fill respond to teh following questions:
 
-Would you be interested to participate? Please fill this form https://forms.gle/ykugB7dimYsGmsMm8.
+> (add questions)
 
-Feel free to ask any questions you might have.
+> Feel free to ask any questions you might have.
 
-Best regards,
->
->
+> Best regards,
 
+### Pubslishing a Blogpost of the Interview
 - Upon receiving the responses, publish them into a blog post for enagement of other existing users and potential users
 
 
