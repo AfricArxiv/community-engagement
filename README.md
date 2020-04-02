@@ -49,18 +49,23 @@ Join us in spreading the word about scholarly communication in and about Africa 
 Contact us at contribute@africarxiv.org
 
 # Metrics 
-Help collect social media metrices using the following:
+Help collect social media metrices using the following evaluations:
 - no. of followers per social media platform
 - net new followers per month
 - likes / retweets / shares per post
 - community growth
 - website visitors
 - email signups
+- snetiments (including interview resposnses)
+- clicks
+- downloads of publications
+- reach
+- organic and paid likes
 - signups on OSF, ScienceOpen, Zenodo
 - Conversion: follower >> submitting author
 - Conversion: follower >> contributor (team member / donor)
 - For other ideas check https://blog.hootsuite.com/social-media-metrics/
-Add the mertrics collected into this spreadsheet: https://docs.google.com/spreadsheets/d/1B05wLwyuAmXa_fg0R5L-K1rsGfz_KKd3Gf0Fq2uZcpE/edit
+Add the mertrics based on your evaluation into this spreadsheet: https://docs.google.com/spreadsheets/d/1B05wLwyuAmXa_fg0R5L-K1rsGfz_KKd3Gf0Fq2uZcpE/edit
 
 # Narrative
 ## Twitter
@@ -151,10 +156,33 @@ Apart from posting manually in individual social platforms, you can also conside
 - Ensure that table or image description is also in the screenshot
 - You can achieve this by adjusting the size of the browser window (zoom screen size from 100% to about 125% or 150%)
 
+# Interviews
+Interview is an important social listening tool that helps you to know the sentiments of the users from their previous experience with the repository.
+The interview qestions are available in this directory:user-interview.md
+To administer an interview, select one email at a time from the authors database (https://docs.google.com/spreadsheets/d/1aGfIBzEGvu4PwcBMv-c2IrU6r3i_MpBscu0SMj3OCNI/edit?usp=sharing)
+- copy paste the questions into the email body and send
+- you can use the following email format (feel free to be creative)
+> Dear (First Name),
+
+> Thank you for using AfricArXiv for the dissemination of your research results. Your manuscript entitled:(link to ), was downloaded 88 times until today. We would like to take this opportunity to ask a few questions about your experience in using AfricArXiv/OSF and also to feature your work in a blog post on our website: https://info.africarxiv.org/news/
+
+
+Would you be interested to participate? Please fill this form https://forms.gle/ykugB7dimYsGmsMm8.
+
+Feel free to ask any questions you might have.
+
+Best regards,
+>
+>
+
+- Upon receiving the responses, publish them into a blog post for enagement of other existing users and potential users
+
 
 
 # Activities (planned)
 ## Monthly community calls / webinars
+- assess what’s working, what isn’t and how you can improve
+- communicate goals, challenges and wins with the team
 - invite other initiatives to present their tools & services with Open Science in Africa
 - follow up on the webinars we had
 - presenting and hot to comment with hypothesis
