@@ -120,6 +120,20 @@ Add the mertrics collected into this spreadsheet: https://docs.google.com/spread
 - Use English for the most part - intersecting with French 
 - African Languages esp. for region specific content but also randomly
 
+## Scheduling Posts
+Apart from posting manually in individual social platforms, you can also consider using the following mobile and web-based applications to schedule your posts:
+- Hootsuite
+- Buffer
+- ...
+
+### Tip:
+- Create your own account in the preferred platform dedicated for scheduling posts on AfricArxiv social media handles
+- Connect the accounts (Twitter, Facebook, LinkedIn)
+- Take time to create content for each handle. You may use an excel sheet to organize your content to ensure you have enough  posts until when you can post again. See Excel Template (https://docs.google.com/spreadsheets/d/1FR6cHtX-0qTT5CdY7w0GBBrTbFxSPwCVKrIPC7BaIJ8/edit?usp=sharing)
+- Schedule posts either manually or automatically and follow up with comments, likes and shares to keep your community engaged, and interested. 
+- Schedule regularly to have content for every week. 
+
+
 # Frequency
 - Twitter: 3-5 per day; Focus on quantity -one post per hour is optimal (retweets inculded)
 - Facebook: 5-10 per week; Focus on quality - aim for 2 posts per day to keep the audience interested
