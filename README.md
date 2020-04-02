@@ -31,12 +31,13 @@ Medium.com (medium.com/@africarxiv) | ---
 - Facebook - Whole community of stakeholders and general audience and most activity/discussions taking place
 - Slack - AfricArXiv core/implementing team and community of contributors 
 - Github - Active contributors to the repository
-- WhatsApp & Telegram - vulnerable to bystander audience apart from small working groups and not productive if the same audience are in the other platforms especially 
+- WhatsApp & Telegram - Use for crowdsourcing engagement in calls and projects. Also for dissemingating information to the AfricArxiv community and team.
 - Facebook group - Use for general announcements and updates on our services 
 Members can ask questions and get quick answers from the team or other members
 Members can exchange information about open science, Open Access and preprints
 
-# Posting preprints
+# Preprints 
+## Posting Preprints
 - Choose from https://osf.io/preprints/africarxiv/discover and make sure to track the already posted preprints at (https://docs.google.com/spreadsheets/d/1d99iVq_BIhmb7VqV27jDS7L8CHSRhIyNsrmdTi0P-3U/edit#gid=0)
 - Highlight the country, where it’s coming from / where the study is located
 - c&p APA citation style from preprint entry 
@@ -45,7 +46,7 @@ Members can exchange information about open science, Open Access and preprints
 - add #ResearchinAfrica #OpenAccess #preprint (if space allows)
 - Add a screenshot from the manuscript (title page, figures, tables)
 
-# Suggested edits on submission form for preprints:
+## Suggested edits on submission form for preprints:
 - Country/origin/country of origin/ Nationality be added
 - Twitter handle of submitting author be added
 
@@ -55,7 +56,7 @@ Join us in spreading the word about scholarly communication in and about Africa 
 - Submit your research output to the AfricArXiv repository: https://info.africarxiv.org/submit/
 - Join any of our communication channels: https://info.africarxiv.org/contact/
 - Reach out to your academic network and tell them about AfricArXiv
-- Let us know if you would like to join our team by emailing collaborate@africarxiv.org
+- Let us know if you would like to join our team by emailing
 - Translate with us abstracts and summaries into traditional African languages
 - Make suggestions on how else to spread the word about Research in Africa
 
