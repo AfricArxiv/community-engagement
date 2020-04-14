@@ -175,7 +175,7 @@ To administer an interview, select one email at a time from the authors database
 
 > Thank you for using AfricArXiv for the dissemination of your research results. Your manuscript entitled: (Title and link to the article), was downloaded (no of downloads) times until today. We would like to take this opportunity to ask a few questions about your experience in using AfricArXiv/OSF and also to feature your work in a blog post on our website: https://info.africarxiv.org/news/
 
-> Would you be interested to participate? Please fill respond to teh following questions:
+> Would you be interested to participate? Please respond to the following questions:
 
 > (add questions)
 
