@@ -129,7 +129,10 @@ Apart from posting manually in individual social platforms, you can also conside
 - Twitter: 3-5 per day; Focus on quantity -one post per hour is optimal (retweets inculded)
 - Facebook: 5-10 per week; Focus on quality - aim for 2 posts per day to keep the audience interested
 - Linkedin: 2-5 per week; Focus on formal, technical content - posts get more traction during the work week
-##Community Newsletters to keep our volunteers and community interested and updated 
+
+
+# Newletters
+## Community Newsletters to keep our volunteers and community interested and updated 
 
 It is so important in:
 - Keeping everyone informed on important changes. No one likes feeling out of the loop.
@@ -141,7 +144,7 @@ It is so important in:
 - Reinforces transparency. 
 - Prevents people from saying “I didn’t get the memo.” If your newsletter becomes habit-forming, they’ll always be in the know.
 
-##What to include in the Newsletter:
+## What to include in the Newsletter:
 - New Team Members 
 - Achievements 
 - Internal Policy Changes 
@@ -162,7 +165,7 @@ It is so important in:
 - Community Questions and Answers 
 
 
-##Next, You Newsletter Content Strategy
+## Next, You Newsletter Content Strategy
 
 So, that’s plenty of ideas to get you thinking. At some point though, you’ll need to determine what types of content you’ll include in each newsletter. Keeping it consistent makes it easier to gather and write what you need, rather than wondering what to include.
 
@@ -174,9 +177,9 @@ If you need a starting point, here’s an example of a standard mix:
  - An upcoming company events calendar.
  - Call-to-action soliciting questions from around the company.
 
-##do what works best for your situation
+## do what works best for your situation
 
-##Tips:
+## Tips:
 - Font: Use Arial/Helvetica 
 - Use Humor Sparingly
 - Keep it Concise 
@@ -193,24 +196,24 @@ If you need a starting point, here’s an example of a standard mix:
     Voice: This is what you sound like all the time.
     Tone: This is the inflection you apply to your voice.
 
-##Design and Schedule your Newsletter
+## Design and Schedule your Newsletter
 - Decide on a template 
 - Decide on plain text newsletter or visual newsletter
 - Schedule your Newsletters according to the desirable frequency 
 
-##Measure Impact according to:
+## Measure Impact according to:
 - Open rates
 - Click-through rates
 - Click-to-open rates
 
-##Getting Feedback
+## Getting Feedback
 Listen to direct feedback from recipients. Once you’ve been sending these emails for a while, send out a survey asking what people think. Include questions like:
 - How often would you like to get these updates?
 - Is there any information that’s not useful?
 - Is there anything you’d like to see added?
 - Do you have other thoughts you’d like to share?
 
-##review the headlines and proofread before sending out
+## review the headlines and proofread before sending out
 
 
 # Preprints 
