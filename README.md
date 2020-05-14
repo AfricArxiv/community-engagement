@@ -129,6 +129,89 @@ Apart from posting manually in individual social platforms, you can also conside
 - Twitter: 3-5 per day; Focus on quantity -one post per hour is optimal (retweets inculded)
 - Facebook: 5-10 per week; Focus on quality - aim for 2 posts per day to keep the audience interested
 - Linkedin: 2-5 per week; Focus on formal, technical content - posts get more traction during the work week
+##Community Newsletters to keep our volunteers and community interested and updated 
+
+It is so important in:
+- Keeping everyone informed on important changes. No one likes feeling out of the loop.
+- Creating clarity between disparate teams. Showing what different teams are accomplishing cultivates understanding between groups that don’t usually work together.
+- Putting an end to multiple, endless email threads. Instead of news being sent out piecemeal through multiple email threads, you can just send one awesome email.
+- Encouraging social advocacy. Including things coworkers can share on social makes it easier for them to become social advocates.
+- Ensuring important messages don’t get lost. Tools like Slack are great, but it can be hit-or-miss whether your messages get seen there or not.
+- Gives team info they can share with their friends and family.
+- Reinforces transparency. 
+- Prevents people from saying “I didn’t get the memo.” If your newsletter becomes habit-forming, they’ll always be in the know.
+
+##What to include in the Newsletter:
+- New Team Members 
+- Achievements 
+- Internal Policy Changes 
+- Revenue Updates
+- Events/Holiday Announcements 
+- Show Off What Teams are Working On
+- Highlighting Teams Accomplishments
+- Awards
+- Interesting Industry Articles 
+- Latest Blog Post
+- New Feature or New Project/Product Announcement 
+- Notes from the Leadership Team
+- Day-in-the-life Stories
+- Success Stories 
+- AfricArXiv News Coverage  
+- How-to Blog Posts 
+- Fun moments 
+- Community Questions and Answers 
+
+
+##Next, You Newsletter Content Strategy
+
+So, that’s plenty of ideas to get you thinking. At some point though, you’ll need to determine what types of content you’ll include in each newsletter. Keeping it consistent makes it easier to gather and write what you need, rather than wondering what to include.
+
+If you need a starting point, here’s an example of a standard mix:
+
+ - 5 pieces of organization-related news.
+ - 3 pieces of content from around the web.
+ - 1 “fun” piece.
+ - An upcoming company events calendar.
+ - Call-to-action soliciting questions from around the company.
+
+##do what works best for your situation
+
+##Tips:
+- Font: Use Arial/Helvetica 
+- Use Humor Sparingly
+- Keep it Concise 
+- Be Truthful
+- Prioritize Important Information First 
+- Create captivating and unique headlines and subject line for each email to get people excited about reading the newsletter. 
+- When drafting articles, **Keep sentences 20-25 words or less** and **keep paragraphs at three sentences or fewer.**
+
+
+-**Afterwards >> Give it a Name**
+**to make it more recognizable**
+
+-**Establish Tone and Voice**
+    Voice: This is what you sound like all the time.
+    Tone: This is the inflection you apply to your voice.
+
+##Design and Schedule your Newsletter
+- Decide on a template 
+- Decide on plain text newsletter or visual newsletter
+- Schedule your Newsletters according to the desirable frequency 
+
+##Measure Impact according to:
+- Open rates
+- Click-through rates
+- Click-to-open rates
+
+##Getting Feedback
+Listen to direct feedback from recipients. Once you’ve been sending these emails for a while, send out a survey asking what people think. Include questions like:
+- How often would you like to get these updates?
+- Is there any information that’s not useful?
+- Is there anything you’d like to see added?
+- Do you have other thoughts you’d like to share?
+
+##review the headlines and proofread before sending out
+
 
 # Preprints 
 ## Posting Preprints
