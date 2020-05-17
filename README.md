@@ -68,6 +68,7 @@ Help collect social media metrices using the following evaluations:
 Add the mertrics based on your evaluation into this spreadsheet: https://docs.google.com/spreadsheets/d/1B05wLwyuAmXa_fg0R5L-K1rsGfz_KKd3Gf0Fq2uZcpE/edit
 
 # Narrative
+
 ## Twitter
 - Announce accepted preprint manuscripts
 - Announce new entries as they come in
@@ -79,6 +80,7 @@ Add the mertrics based on your evaluation into this spreadsheet: https://docs.go
 - Feature authors
 - Feature topics
 - Reply to posts and conversations affecting AfricArXiv
+
 ### Tips for a great Tweet: 
 - Keep Tweets between 100 and 120 characters so others can modify or add short notes before retweeting.
 - Take the time to write a proper sentence (including grammar and punctuation) that fits within the character limit.
@@ -87,6 +89,8 @@ Add the mertrics based on your evaluation into this spreadsheet: https://docs.go
 - Accompany your Tweet with a strong and bright image
 - Maintain your own personality.(you're not a robot)
 
+### automated tweets
+- https://osfpreprints-feed.glitch.me/africarxiv.rss (OSF only) active via IFTTT (johave's account) // each time a preprint is accepted at OSF a tweet goes out with title and url/preview
 
 ## Facebook: same as Twitter
 ### Tips for a great Facebooks post:
